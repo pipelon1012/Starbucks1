@@ -38,7 +38,7 @@ Starbucks1/
    ```bash
    git clone https://github.com/tuusuario/starbucks-landing-page.git
 
-2. Abre la carpeta del proyecto:
+2. Abre la carpeta del proyecto.
 
 3. Abre el archivo index.html en tu navegador web.
 
